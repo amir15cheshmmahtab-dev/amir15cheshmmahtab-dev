@@ -9,7 +9,7 @@ I am a highly motivated team player ready to apply my comprehensive technical kn
 
 ---
 
-## 🚀 Skills & Toolkit
+## 🚀 Skills 
 
 I am proficient in core web technologies and modern front-end libraries.  
 I believe in using the right tool for the job to build efficient, scalable, and user-friendly applications.  
