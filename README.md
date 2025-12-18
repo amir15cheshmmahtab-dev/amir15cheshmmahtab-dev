@@ -20,8 +20,8 @@ I believe in using the right tool for the job to build efficient, scalable, and 
 |----------------------|-----------|
 | **Structure**        | 🌐 HTML5 |
 | **Styling**          | 🎨 CSS3, Sass, Tailwind CSS, Bootstrap *(Framework)* |
-| **Logic**            | 📜 JavaScript |
-| **Frameworks**       | ⚛️ React.js, Redux |
+| **Logic**            | 📜 JavaScript | TypeScript
+| **Frameworks**       | ⚛️ React.js, Next.js , Redux , Zustand |
 | **Version Control**  | ⚙️ Git, GitHub |
 
 ---
