@@ -71,13 +71,6 @@ I enjoy every type of project. **SaaS platforms · Landing Pages · Dashboards �
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=a78bfa&sideNums=a78bfa&dates=94a3b8" width="60%"/>
-
-</div>
----
-
 ## 💡 What I Bring to the Table
 
 ```javascript
