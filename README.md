@@ -26,7 +26,7 @@
 
 I'm a **Full Stack Developer** with a passion for building **fast, reliable, and visually polished** web applications.
 
-I started my career at **Davandegan** as a Frontend Intern — writing real production code from day one. Within **9 months** I earned a **full-time Full Stack Developer** role, taking ownership of features end-to-end: from pixel-perfect UI to database design and deployment.
+I started my career at **Davandegan** as a Frontend Intern — writing real production code from day one. I earned a **full-time Full Stack Developer** role, taking ownership of features end-to-end: from pixel-perfect UI to database design and deployment.
 
 Whether I'm optimizing a React render cycle, tuning a MongoDB query, or fine-tuning an animation curve in GSAP — I'm always asking:
 
