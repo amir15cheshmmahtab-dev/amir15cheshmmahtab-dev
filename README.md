@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Amir Cheshm Mahthab] 👋
 
 <p align="center">
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -72,56 +72,11 @@ I enjoy every type of project. **SaaS platforms · Landing Pages · Dashboards �
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=a78bfa&sideNums=a78bfa&dates=94a3b8" width="60%"/>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-## 🗂️ Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📋 Description | 🛠️ Stack | 🔗 Links |
-|:---:|:---:|:---:|:---:|
-| **Project Alpha** | SaaS dashboard with real-time analytics | `Next.js` `MongoDB` `Redux` `Tailwind` | [Demo](https://demo.com) · [Code](https://github.com) |
-| **Project Beta** | High-performance e-commerce platform | `React` `Node.js` `Express` `MongoDB` | [Demo](https://demo.com) · [Code](https://github.com) |
-| **Project Gamma** | Animated landing page with GSAP sequences | `React` `GSAP` `Framer Motion` `SASS` | [Demo](https://demo.com) · [Code](https://github.com) |
-| **Project Delta** | RESTful API with Docker deployment | `Node.js` `Express` `MongoDB` `Docker` | [Demo](https://demo.com) · [Code](https://github.com) |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&hide_border=true" width="100%"/>
-
-</div>
-
 ---
 
 ## 💡 What I Bring to the Table
@@ -164,11 +119,11 @@ const developer = {
 
 > I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
-<a href="mailto:your@email.com">
+<a href="mailto:amir15cheshmmahtab@gmail.com">
   <img src="https://img.shields.io/badge/Send%20me%20an%20email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/amircheshmmahtab/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
